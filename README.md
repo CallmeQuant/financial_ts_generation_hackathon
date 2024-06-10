@@ -34,3 +34,6 @@ conda env create -f environment.yml
         ```
     + Specify the condition (e.g., crisis or regular) by setting `condition[0]` in the `main.py`.
     + The generated synthetic data will be saved to a pickle file.
+
+# References:
+<a id="1">[1]</a> Alaa, A.M., Chan, A.J., & Schaar, M.V. (2021). Generative Time-series Modeling with Fourier Flows. International Conference on Learning Representations. \
