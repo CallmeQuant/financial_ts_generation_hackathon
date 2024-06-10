@@ -29,8 +29,8 @@ conda env create -f environment.yml
             + Load the pre-trained model from model_dict.pkl.
 - Generating Samples:
     + Run the script main.py in console:
-    ```console
-    python main.py
-    ```
-    + Specify the condition (e.g., crisis or regular) by setting condition[0] in the `main.py`.
+        ```console
+        python main.py
+        ```
+    + Specify the condition (e.g., crisis or regular) by setting `condition[0]` in the `main.py`.
     + The generated synthetic data will be saved to a pickle file.
