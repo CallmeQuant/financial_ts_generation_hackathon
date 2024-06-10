@@ -36,4 +36,4 @@ conda env create -f environment.yml
     + The generated synthetic data will be saved to a pickle file.
 
 # References:
-<a id="1">[1]</a> Alaa, A.M., Chan, A.J., & Schaar, M.V. (2021). Generative Time-series Modeling with Fourier Flows. International Conference on Learning Representations. \
+<a id="1">[1]</a> Alaa, A.M., Chan, A.J., & Schaar, M.V. (2021). Generative Time-series Modeling with Fourier Flows. International Conference on Learning Representations.
