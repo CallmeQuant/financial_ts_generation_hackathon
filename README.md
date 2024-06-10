@@ -1,5 +1,5 @@
 # FourierFlow Generator for Financial Time Series
-The FourierFlow Generator is a simple, yet powerful tool for generating synthetic time series data using generative models. The model is slightly modified and applied to the Market Scenario Generator Hackathon: From Stability to Storms (for more details of the hackathon, visit [Hackathon Website](https://hackathon.deepintomlf.ai/competitions/38)).
+The FourierFlow is a simple, yet powerful tool for generating synthetic time series data using deep generative models. The model is slightly modified and applied to the Market Scenario Generator Hackathon: From Stability to Storms (for more details of the hackathon, visit [Hackathon Website](https://hackathon.deepintomlf.ai/competitions/38)).
 
 # Getting Started
 ## Installation:
