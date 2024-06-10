@@ -1,0 +1,24 @@
+# General configuration
+device: cuda
+seed: 0
+gpu_id : "0"
+train: True
+evaluate: False
+# n_lags, length of the time series
+n_lags: 5
+
+algo: FourierFlow
+#hyperparameters:
+lr: 0.003
+batch_size: 256
+epochs: 500
+display_step: 100
+
+#ff hyperparameter:
+input_dim: 11
+hidden_dim: 200
+n_flows: 25
+output_dim: 10
+vol_activation: softplus
+
+
